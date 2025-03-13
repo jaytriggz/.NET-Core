@@ -1,0 +1,15 @@
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\bin\Debug\net8.0\working Files.exe
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\bin\Debug\net8.0\working Files.deps.json
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\bin\Debug\net8.0\working Files.runtimeconfig.json
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\bin\Debug\net8.0\working Files.dll
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\bin\Debug\net8.0\working Files.pdb
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.AssemblyInfoInputs.cache
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.AssemblyInfo.cs
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.csproj.CoreCompileInputs.cache
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.sourcelink.json
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.dll
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\refint\working Files.dll
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.pdb
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\working Files.genruntimeconfig.cache
+C:\Users\arotr\Documents\GitHub\sailProjects\SAIL-Projects-phillip-\working Files\obj\Debug\net8.0\ref\working Files.dll
